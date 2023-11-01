@@ -32,7 +32,6 @@
 </head>
 <body>
 <h1>Account List</h1>
-
 <table>
     <tr>
         <th>Email</th>
